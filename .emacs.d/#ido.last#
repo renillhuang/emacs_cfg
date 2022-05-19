@@ -1,0 +1,265 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "eric/")
+ ("/" . "home/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/" . "graph_path_planner/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/" . "path_planner/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/" . "navigation/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/" . "include/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/" . "navigation/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/" . "flags_config/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/" . "include/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/" . "flags_config/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/" . "chassis_wrapper/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/" . "src/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/" . "hybrid_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/" . "ninjia_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/" . "src/")
+ ("/home/eric/project/skywalker/applications/base/camera_service/" . "conf/")
+ ("/home/eric/project/skywalker/applications/base/" . "camera_service/")
+ ("/home/eric/project/skywalker/applications/" . "base/")
+ ("/home/eric/project/miscellanea/opencl-sdk-1.3/src/examples/" . "basic/")
+ ("/home/eric/project/miscellanea/opencl-sdk-1.3/src/" . "examples/")
+ ("/home/eric/project/miscellanea/" . "opencl-sdk-1.3/")
+ ("/home/eric/project/" . "miscellanea/")
+ ("/home/eric/" . "project/")
+ ("/home/eric/project/skywalker/rover/navigation/src/" . "navigation/")
+ ("/home/eric/project/skywalker/rover/navigation/src/navigation/" . "path_planner/")
+ ("/home/eric/project/skywalker/rover/navigation/" . "src/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/" . "ninjia_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/" . "rover/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/eric/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/graph_path_planner/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/flags_config/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/chassis_wrapper/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/hybrid_slam/"
+ "/home/eric/project/skywalker/applications/base/camera_service/conf/"
+ "/home/eric/project/miscellanea/opencl-sdk-1.3/src/examples/basic/"
+ "/home/eric/project/skywalker/rover/navigation/src/navigation/path_planner/"
+ "/home/eric/project/skywalker/rover/navigation/src/navigation/log/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "graph_path_planner.h"
+ "flags_config.h"
+ "chassis_wrapper.cc"
+ "hybrid_slam.cc"
+ "camera_service_mini2.json"
+ "canny.cpp"
+ "graph_cost_data.cc"
+ "navi_log_loader.cc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/laser_data/2021-12-30_11-49-43/created_map/" (25037 12270 93971 344000) "targets.data" "../" "probabilitymap.data" "map.pgm" "probpyramids.data" "frame.data" "./" "config.xml" "visual_map.data")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/laser_data/2021-12-10_10-37-55/" (25010 49021 904817 802000) "../" "top_ir_parameters.txt" "created_map/" "record_config.json" "Rec_2021-12-10_10-37-55/" "./" "rs_bino_left_intrinsics.bin")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/laser_data/2021-12-30_11-49-43/" (25037 12270 93971 344000) "vi_parameters.txt" "../" "created_map/" "Rec_2021-12-30_11-49-43/" "record_config.json" "rgbd_mono_parameters.txt" "./" "ir_parameters.txt" "rs_bino_left_intrinsics.bin")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/simulation_tool/src/" (24793 26902 924801 956000) "ros_motor.cc" "test.cc" "../" "chassis_simulator.cc" "ros_driver.cc" "./")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/simulation_tool/" (24793 26902 924801 956000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/devel_linux/include/eigen3/Eigen/" (25034 50730 308045 958000) "Core" "QR" "LU" "SparseQR" "Sparse" "StdDeque" "SparseLU" "SparseCore" "PardisoSupport" "SVD" "QtAlignedMalloc" "../" "Cholesky" "MetisSupport" "Geometry" "src/" "Dense" "PaStiXSupport" "Eigenvalues" "CholmodSupport" "SPQRSupport" "IterativeLinearSolvers" "Householder" "./" "SparseCholesky" "SuperLUSupport" "Eigen" "OrderingMethods" "StdVector" "UmfPackSupport" "Jacobi" "StdList")
+
+ ("/home/" (25016 46133 280432 938000) "./" "eric/" "../")
+
+ ("/home/eric/project/" (25035 3991 378214 488000) "laser_point_cloud-single_leg.zip" "opencv_build/" "examples.desktop" "Matlab/" "verify/" "jira/" "script/" ".gitconfig" "bk/" "huangyi-betel-orbbec-integration-0b8dca9_2021-11-05_06-41-15.tar.bz2" "navi_log" "2922.969829.pgm" "android_ndk/" "845-android/" ".bash_logout" "cameraHAL3/" "nextvpu-result/" "multi-robot/" "tmp_unzip/" "canny.sh" "huangyi-betel-nextvpu_feynman_cam-d7fe182_2021-12-10_01-55-55.tar.bz2" "build_linux/" "canny-opencl/" "config/" "server_script/" "devel_betel/" ".bashrc" "pgm/" "0.png" "devel_falcon/" "laser_point_cloud/" "core" "push.sh" "install_betel/" ".profile" "tmp/" "BiSeNet/" "skywalker/" "laser_point_cloud_multi-leg.zip" "laser_data/" "libusb/" "OrbbecDabai/" "lanhai-driver/" "inverse_projection/" "needed" "buildBK.sh" "build_betel/" ".cache/" "build_falcon/" "ir_cam_capture/" "VINS-Mono/" "catkin/" "install_linux/" "liblog/" "mini-swing/" "PTAM-GPL/" "librealsense/" "pytorch-animeGAN/" "doc/" "matlab-script/" "nextVPU/" "ninjia_data/" "qcloud-documents/" "rpg_svo_pro_open/" "opencl-sdk-1.3/" "log1" "snpe-1.52.0.2724/" "cosbrowser.AppImage" "devel_linux/" "libuvc/" "mnt/" "depth_image.pgm" "img/" "docker/" "nvidia/" "build.sh" "adrenosdk-linux-5_0/" "feature_manager/" "Pangolin/" "dataset/" "out.ppm" "log/" "miscellanea/" "../" "./")
+
+ ("/home/eric/project/skywalker/" (25037 19532 486452 615000) "modify_lists.md" "README.md" "dockerfiles/" "3rdparty/" "setup.sh" "catkin_simple/" "../" "tags" "ninjia_catkin/" "continuous-integration/" "TAGS" "visual_module/" ".gitignore" "build_helper/" "./" "closed/" "prebuilt/" "applications/" "catkin/" "rover/" ".git/" ".gitreview" "tools/" ".gitlab-ci.yml" "experimental/" "common/")
+
+ ("/home/eric/project/skywalker/closed/" (24981 47527 487143 963000) "crp/" "target_detector/" "vins_feature_tracker/" "n-point-mle/" "direct-least-squares-pnp/" "two-point-ransac/" "camera_capture/" "robot_toolbox/" "cv_algorithm/" "zero-point-ransac/" "orb-detector-matcher/" "generic-ransac/" "camera_model/" "ninjia_slam/" "sm_timing/" "sparse-mapping/" "absolute-camera-pose/" "person_tracker/" "grid-gen/" "rf/" "scene_segmentation/" "cvflyby/" "network/" "../" "multi_robots_data_manager/" "apriltags/" "star_topology/" "apriltag2_catkin/" "vio-data-producer/" "laser-optimizer/" "data_pretreater/" "lora/" "recharge_location/" "imu_pose_estimate/" "deep_lcd/" "visual_relocalization_dbow/" "affine-klt/" "calibration_tools/" "visual-inertial-odometry/" "imu_tk/" "visual_person_tracker/" "pmd_test/" "vins_estimator/" "xvisio_test/" "feature-tracker/" "vins_pose_graph/" "imu-processor/" "statistics/" "./" "integrator/" "dense-mapping/" "ransac/" "segmap/" "pose_graph/" "feature_detector/" "tk1_server/" "vision_manager/" "costmap_2d/" "GCNv2/" "simple-vis-relocalization/" "inflation_manager/" "depth-image-calibration/" "base_ba/" "laser_slam/" "scene_segmentation_dlcv/" "deterministic-initialization/" "small-scale-ba/" "super_point/" "line-detector/" "sliding-triangulation/" "icp/" "numerics-toolbox/" "superpoint_dlcv/" "vanishing-point-ransac/" "brisk-feature-matcher/" "loop-closure/" "base_openvino/" "five-point-ransac/")
+
+ ("/home/eric/project/skywalker/rover/navigation/src/navigation/path_planner/" (25037 19532 566452 675000) "straightener.cc" "angle_speed_limit.cc" "path_speed_planner.cc" "graph_path_planner/" "../" "map_leading_path_planner.cc" "smoother.cc" "./" "path_planner.cc" "local_a_star_searcher.cc" "a_star_searcher.cc" "path_map_treater.cc" "path_logger.cc")
+
+ ("/home/eric/project/skywalker/applications/base/camera_service/conf/" (25010 49198 817441 763000) "version.h.in" "99-realsense-libusb.rules" "camera_service_megabat_silver.json" "camera_service_mini.json" "../" "camera_service_megabat.json" "99-camera-service.rules" "camera_d430_high_accuracy.json" "camera_service_waiter.json" "camera_service_mini3.json" "./" "camera_service_unknown.json" "camera_service_mini2.json" "camera_service_ktv2.json" "conf.in" "camera_service_meissa_s.json")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/hybrid_slam/" (25010 49198 981442 345000) "location_processor.cc" "location_matcher.cc" "realtime_processor.cc" "hybrid_slam_log.cc" "relocation_processor.cc" "../" "laser_grid_filter.cc" "delta_pose_calculator.cc" "hybrid_slam.cc" "./" "mapping_processor.cc" "slip_checker.cc" "realtime_map_manager.cc" "point_grid_cache.cc" "odom_logger.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/chassis_wrapper/" (25037 19532 494452 620000) "robot_monitor.cc" "push_detection.cc" "navi_cloud_record.cc" "../" "sensor_checker.cc" "chassis_wrapper.cc" "./" "sensor_report.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/flags_config/" (25037 19532 494452 620000) "../" "flags_config.h" "./")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/graph_path_planner/" (25037 19532 562452 672000) "graph_path_logger.h" "road_point.h" "../" "cost_calculator.h" "priority.h" "road_point_cache.h" "graph_path_inflater.h" "road_point_searcher.h" "avoid_level.h" "./" "robot_info.h" "graph_path_planner.h" "road_path_calculator.h" "utils.h")
+
+ ("/home/eric/" (25037 44377 240272 101000) ".emacs" ".local/" ".presage/" "Documents/" "Downloads/" "Videos/" ".wget-hsts" ".bash_history" ".sudo_as_admin_successful" "snap/" ".emacs.d/" ".gnupg/" "project/" ".ICEauthority" ".Xauthority" ".ssh/" ".config/" "Pictures/" ".xsession-errors.old" "Templates/" ".bashrc" ".compiz/" "examples.desktop" ".xinputrc" "Music/" ".xsession-errors" "Public/" ".dbus/" "Desktop/" ".profile" "./" ".docker/" "../" ".cmake/" ".sogouinput/" ".emacs_backups/" ".dmrc" ".cache/" ".gitconfig" ".pam_environment" ".mozilla/" ".putty/" ".lesshst" ".pki/" ".gconf/" ".bash_logout" "chassis/" ".gnome2/" ".gnome2_private/")
+
+ ("/home/eric/project/skywalker/closed/base_ba/test/" (25038 32782 723081 325000) "sphere.g2o" "../" "test_crp_reproj_factor.cc" "test_pose_graph.cc" "test_target_reproject_factor.cc" "./" "test_isam2_crash.cc" "test_ba.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/" (25037 19532 486452 615000) "modify_lists.md" "README.md" "dockerfiles/" "3rdparty/" "setup.sh" "catkin_simple/" "../" "tags" "ninjia_catkin/" "continuous-integration/" "TAGS" "visual_module/" ".gitignore" "build_helper/" "./" "closed/" "prebuilt/" "applications/" "catkin/" "rover/" ".git/" ".gitreview" "tools/" ".gitlab-ci.yml" "experimental/" "common/")
+
+ ("/home/eric/project/skywalker/closed/base_ba/" (24991 18283 412720 616000) "../" "src/" "CMakeLists.txt" "test/" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/affine-klt/" (24793 26902 924801 956000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/absolute-camera-pose/" (24793 26902 924801 956000) "../" "CMakeLists.txt" "test/" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/vision_manager/" (24991 18283 492720 887000) "../" "src/" "CMakeLists.txt" "test/" "include/" "./" "package.xml" "proto/")
+
+ ("/home/eric/project/skywalker/3rdparty/qt_build/" (24793 26902 324799 482000) ".project" "../" "cmake/" "CMakeLists.txt" "qt-ros.cmake" "./" "package.xml" ".cproject" "CHANGELOG.rst")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/debug_tool/" (25010 49198 837441 835000) "../" "src/" "CMakeLists.txt" "ui/" "resources/" "include/" "./" "package.xml" "conf/")
+
+ ("/home/eric/project/skywalker/3rdparty/opencv_catkin/" (25010 2323 45321 710000) "../" "CMakeLists.txt" "./" "package.xml" "Android.mk.in" "Android.mk")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/cmake/" (24981 47527 803144 915000) "android.toolchain.cmake" "NinjiaExternalProject.cmake" "ndk_dep_builder.pyc" "ndk_dep_builder.py" "generate_ndk_import_module.py" "future_depend-extras.cmake.in" "../" "ninjia_catkin-extras.cmake.em" "AndroidTools.cmake" "EnableCoverageInUnit.cmake" "Modules/" "NinjiaDetectCUDA.cmake" "CustomizeTools.cmake" "NinjiaDummyProjects.cmake" "./" "ndk-configure-wrapper/" "em/" "templates/" "NinjiaSetup.cmake" "GlobalNinjiaDefines.cmake" "NinjiaDetectCUDA.cmake.bak" "android8.toolchain.cmake" "app-version.sh" "android_run_tests.py")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/cmake/Modules/" (24793 26906 544816 918000) "CheckCSourceCompiles.cmake" "FindGFlags.cmake" "FindGTest.cmake" "FindPackageMessage.cmake" "FindGLog.cmake" "CMakeParseArguments.cmake" "FindNlOpt.cmake" "FindPackageHandleStandardArgs.cmake" "FindCVARS.cmake" "FindSnpe.cmake" "FindProtobuf.cmake" "FindTinyXML.cmake" "FindRealSense.cmake" "FindOrbbec.cmake" "FindOpenNI2.cmake" "FindInferenceEngine.cmake" "FindBoostLib.cmake" "../" "FindDlcv.cmake" "FindLibUSB.cmake" "FindMNN.cmake" "FindCUDA/" "FindIsam.cmake" "Findgflags.cmake" "FindLibNabo.cmake" "FindZeroMQ.cmake" "LibFindMacros.cmake" "FindTBB.cmake" "FindOpenMP.cmake" "FindCXSparse.cmake" "FindGtsam.cmake" "./" "FindCUDA.cmake" "FindLibevent.cmake" "FindCalibu.cmake" "utils.cmake" "FindCLAPACK.cmake" "FindGMock.cmake" "FindPugiXML.cmake" "FindLibUvc.cmake" "CheckCXXSourceCompiles.cmake" "FindEigen3.cmake")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/catkin/python/catkin/cmi/" (25033 38123 669075 154000) "context.py" "output.pyc" "run_windows.py" "terminal_color.py" "common.pyc" "run_unix.py" "executor.pyc" "build.py" "__init__.py" "cli.pyc" "color.pyc" "../" "common.py" "build.pyc" "color.py" "run_unix.pyc" "executor.py" "cli.py" "output.py" "__init__.pyc" "./" "context.pyc" "job.pyc" "terminal_color.pyc" "job.py")
+
+ ("/home/eric/project/skywalker/continuous-integration/" (24874 150 644343 591000) "README.md" "package" "patchup" "deb_debug" "../" "pack" "./" "dep_update" "compile")
+
+ ("/home/eric/project/skywalker/dockerfiles/" (25000 10056 440695 184000) "Dockerfile.xenial-cuda-8" "Dockerfile.alpine-oraclejdk8" "Dockerfile.focal" "Dockerfile.focal-ros" "Dockerfile.android" "../" "Dockerfile.xenial-ros-kinetic-xmas" "Dockerfile.xenial-ndk-sdk" "Dockerfile.xenial" "Dockerfile.cuda" "./" "Dockerfile.trusty-cuda-8" "Dockerfile.xenial-cuda-7" "Dockerfile.alpine")
+
+ ("/home/eric/project/feature_manager/" (25026 57035 967702 785000) "README.md" "pgm.zip" "feature_manager.py" "image_list" "../" "smart_vo.py" "pgm/" "main.py" "./" "debug_module.py" "utils.py" ".git/" "__pycache__/" "frame.py" "corner_feature.py")
+
+ ("/home/eric/project/miscellanea/feature_manager_py/" (25021 19794 50561 773000) "query.jpg" "orb_match.py" "../" "./" "train.jpg")
+
+ ("/home/eric/project/skywalker/closed/scene_segmentation_dlcv/models/x86_mnn/" (24793 26903 568804 614000) "../" "BiSeNet-HBO-0-8-5classes-Sim_gpu_fp32.mnn.json" "BiSeNet-HBO-0-8-5classes-Sim.mnn" "./")
+
+ ("/home/eric/project/skywalker/3rdparty/opencv/samples/python/tutorial_code/ml/introduction_to_svm/" (24996 20175 388872 891000) "introduction_to_svm.py" "../" "./")
+
+ ("/home/eric/project/skywalker/catkin/cmake/" (25011 6527 26735 268000) "catkin_add_env_hooks.cmake" "python.cmake" "interrogate_setup_dot_py.py" "empy.cmake" "debug_message.cmake" "legacy.cmake" "em_expand.cmake" "catkin_python_setup.cmake" "tools/" "all.cmake" "list_append_deduplicate.cmake" "atomic_configure_file.cmake" "catkinConfig.cmake.in" "catkin_metapackage.cmake" "em/" "assert.cmake" "stamp.cmake" "Modules/" "catkin_workspace.cmake" "parse_package_xml.py.bak" "find_program_required.cmake" "catkin_package.cmake" "parse_package_xml.py" "catkin_package_xml.cmake" "env-hooks/" "templates/" "../" "test/" "shell.cmake" "catkin_destinations.cmake" "platform/" "toplevel.cmake" "catkin_generate_environment.cmake" "safe_execute_process.cmake" "python_version.py" "./" "list_insert_in_workspace_order.cmake" "parse_arguments.cmake" "order_paths.py" "list_append_unique.cmake")
+
+ ("/home/eric/project/build_linux/catkin/" (25011 5225 417089 392000) "catkin/" "gmock/" "gtest/" "test_results/" "CMakeCache.txt" "CMakeFiles/" "cmi_env.py" "../" "./" "catkin_generated/")
+
+ ("/opt/ros/foxy/lib/python3.8/site-packages/ros2interface/verb/" (25008 39904 673250 265000) "__init__.py" "show.py" "./" "list.py" "proto.py" "__pycache__/" "../" "packages.py" "package.py")
+
+ ("/home/eric/project/skywalker/catkin/python/catkin/cmi/" (25008 27516 828863 63000) "color.py" "cli.py" "context.py" "output.py" "terminal_color.py" "run_unix.py" "__pycache__/" "run_windows.py" "../" "job.py" "__init__.py" "common.py" "build.py" "./" "executor.py")
+
+ ("/home/eric/project/skywalker/catkin/bin/" (25008 27508 640648 884000) "catkin_package_version" "catkin_init_workspace" "catkin_prepare_release" "catkin_make" "catkin_make_isolated" "catkin_generate_project_xml" "catkin_find" "catkin_test_results" "pcmi" ".gitignore" "../" "catkin_topological_order" "./")
+
+ ("/home/eric/project/skywalker/CMakeFiles/3.16.3/" (25006 52745 611011 499000) "CompilerIdC/" "CMakeDetermineCompilerABI_CXX.bin" "CMakeDetermineCompilerABI_C.bin" "CMakeCXXCompiler.cmake" "../" "CMakeSystem.cmake" "CompilerIdCXX/" "./" "CMakeCCompiler.cmake")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/bin/" (25006 54066 250685 98000) "lcov_cobertura.py" "lcov_cobertura.pyc" "__pycache__/" "ninjia_make" "../" "./")
+
+ ("/home/eric/project/miscellanea/cos_fetch/" (24991 1296 689798 971000) "old_new_augment/" "visualize_visual_info.py" "diagnose_abnormal.py" "comapare_augment" "result_old/" "v2443_v1115_worse/" "liuchang_crash.tar.gz" "compare_abnormal.py" "zip_to_unzip_dirs.py" "crash_record/" "tencent/" ".#copy_only_log.py" "setup.sh" "result_crash-verify/" "v2443_v1115_augment/" "run_offline.py" "v2443_vGY1110_worse/" "README" "init_env.sh" "single/" "result_vGY1110/" "../" "stat_lc_1124.tar.gz" "worse_v2443.tar.gz" "tobe_check" "gen_qualified_record.py" "qualified_zip" "1115/" "test_visual_info_list" "comapare_worse" "parallel_process.py" "augment_v2443.tar.gz" "large-diff-pose/" "result_v1111.tar.gz" "fetch_navi_data.py" "result_v1115/" "result_worse.tar.gz" "liuchang_worse.tar.gz" "fetch_figure.py" "abnormal_figure.tar.gz" "update_json.py" "result_augment.tar.gz" "local_process.py" "tmpBK/" "result_fix-crash/" "parse_result.py" "tmp/" "stat_visual_map.py" "check_record.py" "fetch_cos_data.py" "liuchang_augment.tar.gz" "get_single_record.py" "output/" "get_record_info.py" "result_v2443/" "_setup_util.py" "stitching_stat.tar.gz" "v2443_vGY1110_augment/" "sum_visual_info.py" "compare_match" "./" "ftp_service.py" "mail_service.py" "result_v2430/" "tmp_cmp_abn.py" "gy_record_list" "get_crash_record.py" "backup/" "file_ops.py" "compare_all" "result_eric/" "__pycache__/" "check.py" "result_new/" "update_json_by_sn.py" "result_v1111/" "old_new_worse/" "test_compare.py" "result_gy/" "result_lc1122/" "fetch_cos_tmp.py" "log/")
+
+ ("/home/eric/project/pytorch-animeGAN/" (24990 3550 76591 710000) "README.md" "inference_image.py" "anime-gan.zip" "script/" "requirements.txt" "notebooks/" "../" "inference_video.py" "predict.py" "utils/" "cog.yaml" "train.py" "dataset.py" ".gitignore" "modeling/" "test.py" "./" "example/" ".git/" "inference.py" "dataset/")
+
+ ("/home/eric/project/skywalker/3rdparty/libfeynman/include/feynman-sdk/" (24988 60640 714823 202000) "../" "ring_queue.h" "./" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/home/eric/project/skywalker/3rdparty/libfeynman/src/test/" (24988 60640 714823 202000) "../" "./" "test_feynman_center_depth.cc")
+
+ ("/home/eric/project/skywalker/common/hardware/src/hardware/camera/driver/" (24987 37206 851975 28000) "../" "fm_camera_driver.cc" "v4l2_camera_driver.cc" "fm_camera_driver_manage.cc" "./" "v4l2_camera_driver_manage.cc" "rs_camera_driver_manage.cc" "rs_camera_driver.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/nextVPU/android-feynman-camera/app/src/main/cpp/feynman-sdk/" (24987 27253 244039 577000) "yuv_rgb.c" "feynman_sdk.cpp" "feynman_upgrade_module.cpp" "../" "ring_queue.h" "./" "ring_queue.cpp" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/home/eric/project/skywalker/common/common_data/src/common_data/" (24982 3565 977265 30000) "security/" "io/" "hardware_common.cc" "../" "utils/" "common_data_flags.cc" "./" "tools/" "data/" "net/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/common_data/src/common_data/" (24982 3314 264345 227000) "security/" "io/" "hardware_common.cc" "../" "utils/" "common_data_flags.cc" "./" "tools/" "data/" "net/")
+
+ ("/home/eric/project/skywalker/closed/ninjia_slam/include/ninjia_slam/" (24979 30324 584818 618000) "laser_processor.h" "data_publisher.h" "odom_processor.h" "constants.h" "odom_gyro_calibrater.h" "pretreater/" "ninjia_slam_flags.h" "vision/" "../" "hybrid_slam/" "data_receiver.h" "utils/" "probability_map/" "visual/" "base_slam.h" "normal_slam/" "./" "object_manager/" "known_slam/" "ninjia_slam.h" "ninjia_slam_events.h" "voxel_filter.h" "map/" "tmp_free_slam.h" "data/")
+
+ ("/home/eric/project/skywalker/closed/ninjia_slam/src/ninjia_slam/" (24979 30025 394708 73000) "odom_gyro_calibrater.cc" "ninjia_slam.cc" "ninjia_slam_flags.cc" "visual_helper/" "data_receiver.cc" "pretreater/" "odom_processor.cc" "vision/" "../" "hybrid_slam/" "utils/" "probability_map/" "laser_processor.cc" "visual/" "normal_slam/" "./" "object_manager/" "known_slam/" "voxel_filter.cc" "ninjia_slam_events.cc" "map/" "data/" "data_publisher.cc" "base_slam.cc")
+
+ ("/home/eric/project/miscellanea/cos_fetch/v2443_v1115_augment/" (24979 8247 285724 124000) "K02LCNC0AA021F16BE32/" "K02KCNC0AA021B21X2A6/" "../" "compare_augment" "K02KCNC0AA021525T347/" "./" "K02KCNC0AA021625UBF8/" "K02ECNC0AA021822V542/" "K02KCNC0AA02122676CC/")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/src/main/cpp/feynman-sdk/" (24970 7032 518715 415000) "yuv_rgb.c" "feynman_sdk.cpp" "feynman_upgrade_module.cpp" "../" "ring_queue.h" "./" "ring_queue.cpp" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/home/eric/project/skywalker/3rdparty/libfeynman/" (24970 13197 176561 876000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml" "libs/")
+
+ ("/home/eric/project/skywalker/common/common_data/src/test/" (24968 51265 145472 874000) "pgm_get_costmap_info.cc" "multi_robots_data_test.cc" "time_utils_test.cc" "cpu_usage.cc" "visual_map_data_test.cc" "test.cc" "../" "pointcloud_test.cc" "async_thread_test.cc" "async_call_test.cc" "pid_usage.cc" "glog_tool_test.cc" "costmap_test.cc" "./" "cs_test.cc")
+
+ ("/home/eric/project/skywalker/closed/vision_manager/test/" (24968 50809 171457 949000) "test_imu.cc" "test_triangulate.cc" "test_imu_pre_integration.cc" "test_feature_manager.cc" "test_check.cc" "test_store_frame_proto.cc" "test_display_map.cc" "../" "undistort_and_rectify.h" "test_location.cc" "undistort_and_rectify.cc" "test_efh.cc" "test_map.cc" "./" "test_imu_integration.cc" "test_camera_pose.cc" "test_mono_vision_manager.cc" "test_se3.cc" "test_target_perception.cc" "test_relocal.cc" "test_map_relcoal_creat.cc" "test_visual_odometry.cc" "test_feature_detector.cc" "test_get_visual_map_info.cc" "test_pnp.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/miscellanea/cos_fetch/" (24965 846 755274 972000) "visualize_visual_info.py" "diagnose_abnormal.py" "abnormal_record_detail" "zip_to_unzip_dirs.py" "abnormal_record" "bk/" "level_pie.png" "lost_done" "tencent/" "setup.sh" "record_lost_more_than5" "run_offline.py" "README" "rcd_lst" "level_bar.png" "init_env.sh" "single/" "../" "tobe_check" "gen_qualified_record.py" "qualified_zip" "parallel_process.py" "large-diff-pose/" "zip_record/" "fetch_navi_data.py" "update_json.py" "record_list" "local_process.py" "figure/" "test_dataset_play" "tobe_check_out" "diff_info" "parse_result.py" "tmp/" "#tobe_check_out#" "stat_visual_map.py" "check_record.py" "fetch_cos_data.py" "abnormal_record_dir.tar.gz" "get_single_record.py" "output/" "get_record_info.py" "_setup_util.py" "issue.tar.gz" "reloc_fail_record" "sum_visual_info.py" "./" "ftp_service.py" "lost_info" "record_lost_max" "mail_service.py" "html" "abnormal_record_dir/" "file_ops.py" "__pycache__/" "check.py" "update_json_by_sn.py" "test_compare.py" "diff_max" "rename_fold.py" "fetch_cos_tmp.py" "sky_pack.tar.gz" "log/")
+
+ ("/home/eric/project/miscellanea/cos_fetch/large-diff-pose/" (24955 50720 426213 942000) "../" "./")
+
+ ("/home/eric/project/miscellanea/cos_fetch/output/K02ECNC0AA0218223682/2021_10_25_v2.4.4.3/2021-10-25_17-50-55/" (24955 48600 711240 853000) "parameters/" "navi_map/" "Rec_2021-10-25_17-50-55/" "../" "new_play_log" "record_config.json" "./" "pose_diff" "pose_data.txt" "pose_lidar")
+
+ ("/home/eric/project/miscellanea/cos_fetch/output/K02ECNC0AA021822LE75/2021_10_25_v2.4.4.3/2021-10-25_17-41-19/" (24953 22337 92764 594000) "parameters/" "navi_map/" "Rec_2021-10-25_17-41-19/" "../" "new_play_log" "record_config.json" "./" "pose_diff" "pose_data.txt" "pose_lidar")
+
+ ("/home/eric/project/skywalker/applications/base/chassis_test/src/" (24917 21907 28889 736000) "change_mode_test.cc" "test.cc" "../" "test_wheel.cc" "test_odom.cc" "chassis_test/" "./" "patrol.cc" "test_dataset_play.cc")
+
+ ("/home/eric/project/skywalker/closed/ninjia_slam/" (24917 21907 40889 791000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml" "proto/")
+
+ ("/home/eric/project/skywalker/closed/ninjia_slam/src/ninjia_slam/hybrid_slam/" (24951 61557 868836 999000) "location_processor.cc" "location_matcher.cc" "realtime_processor.cc" "hybrid_slam_log.cc" "relocation_processor.cc" "../" "laser_grid_filter.cc" "delta_pose_calculator.cc" "hybrid_slam.cc" "./" "mapping_processor.cc" "realtime_map_manager.cc" "point_grid_cache.cc" "odom_logger.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/miscellanea/cos_fetch/output/M01BCNA010020142AD0A/2021_10_15_v2.4.2.11/2021-10-15_19-10-36/" (24947 51320 671620 701000) "parameters/" "navi_map/" "../" "Rec_2021-10-15_19-10-36/" "new_play_log" "record_config.json" "./")
+
+ ("/home/eric/project/skywalker/closed/vision_manager/src/utils/" (24917 21907 64889 902000) "../" "pose_only.cc" "./" "utils.cc")
+
+ ("/home/eric/project/miscellanea/cos_fetch/log/" (24946 33530 691218 278000) "dl_done9" "dl_done1" "dl_done11" "../" "dl_done10" "dl_done4" "dl_done5" "dl_done6" "dl_done7" "dl_done2" "./" "dl_done0" "dl_done8" "dl_done3")
+
+ ("/home/eric/project/opencl-sdk-1.3/docs/extensions/" (24722 28498 0 0) "cl_qcom_extract_image_plane.txt" "cl_qcom_ext_host_ptr.txt" "cl_qcom_ext_host_ptr_iocoherent.txt" "cl_qcom_priority_hint.txt" "../" "cl_qcom_dot_product8.txt" "cl_qcom_reqd_sub_group_size.txt" "cl_qcom_ion_host_ptr.txt" "cl_qcom_compressed_image.txt" "cl_qcom_ml_ops.txt" "cl_qcom_create_buffer_from_image.txt" "cl_qcom_protected_context.txt" "cl_qcom_subgroup_shuffle.txt" "cl_qcom_bitreverse.txt" "cl_qcom_android_native_buffer_host_ptr.txt" "cl_qcom_perf_hint.txt" "./" "cl_qcom_android_ahardwarebuffer_host_ptr.txt" "cl_qcom_accelerated_image_ops.txt" "cl_qcom_other_image.txt" "cl_qcom_recordable_queues.txt" "cl_qcom_vector_image_ops.txt")
+
+ ("/home/eric/project/miscellanea/cos_fetch/test/" (24941 26308 152558 745000) "lost_done" "../" "parallel_process.py" "stat_navi.py" "diff_info" "./" "lost_info" "unzip/" "file_ops.py" "__pycache__/" "filtered_list" "log/")
+
+ ("/home/eric/project/miscellanea/cos_fetch/test/unzip/2021-10-15_17-51-27/" (24937 23916 66388 631000) "parameters/" "navi_map/" "../" "new_play_log" "record_config.json" "./" "Rec_2021-10-15_17-51-27/" "pose_data.txt" "pose_lidar")
+
+ ("/home/eric/project/miscellanea/cos_fetch/test/unzip/2021-09-13_18-04-22/" (24937 18374 450548 745000) "parameters/" "navi_map/" "../" "new_play_log" "record_config.json" "Rec_2021-09-13_18-04-22/" "./" "pose_data.txt" "pose_lidar")
+
+ ("/home/eric/project/miscellanea/cos_fetch/test/log/" (24935 63110 994798 468000) "lost_info12" "lost_done3" "lost_info6" "lost_done10" "lost_info11" "lost_done12" "lost_info13" "../" "lost_info14" "lost_done13" "lost_done4" "lost_done1" "lost_info10" "lost_info3" "lost_done6" "lost_done0" "lost_done2" "lost_info7" "lost_info9" "lost_info5" "lost_done7" "lost_info8" "lost_done5" "lost_done14" "./" "lost_info0" "lost_info2" "lost_info1" "lost_done11" "lost_info15" "lost_done8" "lost_done15" "lost_done9" "lost_info4")
+
+ ("/home/eric/project/miscellanea/cos_fetch/test/unzip/K02KCNC0AA02122632C4/2021_08_23/2021-08-23_19-47-28/" (24935 37027 399025 689000) "parameters/" "Rec_2021-08-23_19-47-28/" "navi_map/" "../" "new_play_log" "play_log" "record_config.json" "./")
+
+ ("/home/eric/project/skywalker/applications/base/camera_service/src/camera_service/" (24929 24584 555903 826000) "dispatcher/" "stream_consumer.cc" "camera_service_flags.cc" "test_camera_orbbec.cc" "../" "camera_service_proxy.cc" "main_camera_service.cc" "./" "camera_service.cc")
+
+ ("/home/eric/project/skywalker/applications/base/camera_service/" (24928 62050 398535 945000) "packageBK.xml" "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml" "conf/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/" (24928 21302 3418 862000) "opencv_build/" "examples.desktop" "Matlab/" "verify/" "jira/" "script/" "bk/" "navi_log" "android_ndk/" "845-android/" ".bash_logout" "cameraHAL3/" "multi-robot/" "tmp_unzip/" "COSBrowser/" "canny.sh" "build_linux/" "canny-opencl/" "config/" "server_script/" "devel_betel/" ".bashrc" "0.png" "devel_falcon/" "#navi_log#" "core" "push.sh" "install_betel/" ".profile" "tmp/" "skywalker/" "libusb/" "OrbbecDabai/" "lanhai-driver/" "inverse_projection/" "needed" "build_betel/" ".cache/" "build_falcon/" "ir_cam_capture/" "install_linux/" "liblog/" "huangyi-betel-feature_huangyi_start-stop-cam-a6e20d5_2021-09-10_12-21-46.tar.bz2" "mini-swing/" "PTAM-GPL/" "librealsense/" "doc/" "matlab-script/" "qcloud-documents/" "rpg_svo_pro_open/" "opencl-sdk-1.3/" "snpe-1.52.0.2724/" "devel_linux/" "libuvc/" "mnt/" "log_ds_play" "huangyi-betel-orbbec-integration-19d7854_2021-09-30_06-54-52.tar.bz2" "img/" "#needed#" "build.sh" "adrenosdk-linux-5_0/" "Pangolin/" "dataset/" "log/" "miscellanea/" "../" "./")
+
+ ("/home/eric/project/skywalker/applications/base/camera_service/include/camera_service/" (24928 62546 427306 610000) "dispatcher/" "../" "stream_consumer.h" "./" "camera_service_proxy.h" "camera_service_flags.h" "camera_service.h")
+
+ ("/home/eric/project/skywalker/common/hardware/" (24917 21908 548896 756000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/common/hardware/include/hardware/camera/config/" (24917 21908 548896 756000) "rs_camera_device_config.h" "v4l2_camera_device_config.h" "db_camera_device_config.h" "../" "./" "i_camera_device_config.h")
+
+ ("/home/eric/project/script/" (24863 4006 179232 315000) "normal_slam_run.sh" "unzip.sh" "display_target_map-mini.sh" "K02KCNC0AA021516F0A0-2021-05-26_20-29-19-mapping.sh" "4th-lab-mapping.sh" "oldAnalysis.sh" "danger-navigation.sh" "mini-top-IR-after.sh" "../" "pack.sh" "4th-lab-navigation-disSTMF.sh" "danger-mapping.sh" "0428-navigation.sh" "batchAnalysis.sh" "04291203-navigation.sh" "analysisData.sh" "mini_topir_know_map.sh" "display_target_map.sh" "mapping-mini.sh" "navigation.sh" "04291203-mapping.sh" "./" "test-scripts.tar.gz" "4th-lab-navigation.sh" "know_map_run.sh" "#danger-mapping.sh#" "mapping.sh" "0429know-map-run.sh" "K02KCNC0AA021516F0A0-2021-05-26_20-29-19-navigation.sh" "0428-mapping.sh" "stack_845.sh" "build.sh")
+
+ ("/home/eric/project/OrbbecDabai/sdk/Arm/Arm-Release/OpenNI2/Drivers/" (24913 35598 615287 0) "OniFile.ini" "orbbec.ini" "../" "libOniFile.so" "./" "liborbbec.so")
+
+ ("/home/eric/project/OrbbecDabai/sdk/Arm/Arm64-Release/OpenNI2/Drivers/" (24913 35598 619287 0) "OniFile.ini" "orbbec.ini" "../" "libOniFile.so" "./" "liborbbec.so")
+
+ ("/home/eric/project/OrbbecDabai/sdk/android/assets/openni/" (24913 35598 507286 0) "OpenNI.ini" "orbbec.ini" "../" "./")
+
+ ("/home/eric/project/OrbbecDabai/sdk/android/java-demos/DemoOrbbecSDK/app/src/main/assets/openni/" (24913 35598 551286 0) "OpenNI.ini" "orbbec.ini" "../" "./")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/include/hardware/camera/config/" (24916 24324 409527 72000) "rs_camera_device_config.h" "v4l2_camera_device_config.h" "db_camera_device_config.h" "../" "./" "i_camera_device_config.h")
+
+ ("/home/eric/project/skywalker/common/hardware/include/hardware/camera/driver/" (24916 24095 393310 87000) "camera_driver_manage.h" "db_camera_driver.h" "camera_driver.h" "../" "v4l2_camera_driver_manage.h" "rs_camera_driver_manage.h" "./" "v4l2_camera_driver.h" "rs_camera_driver.h" "db_camera_driver_manage.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/" (24916 12670 99796 462000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/common/hardware/include/hardware/camera/device/" (24916 11697 22575 11000) "../" "rs_camera_device.h" "camera_device.h" "./" "v4l2_camera_device.h" "db_camera_device.h")
+
+ ("/home/eric/project/skywalker/3rdparty/libdabaipro/src/test/" (24915 3468 374703 568000) "test_center_depth.cc" "../" "test_depth_cb.cc" "./")
+
+ ("/home/eric/project/skywalker/common/common_data/proto/common_data/" (24912 11843 998109 697000) "GraphPathLog.proto" "PathLog.proto" "MotorCmd.proto" "Feature3dStore.proto" "CameraCmd.proto" "../" "SlamLog.proto" "GridMap.proto" "CameraEvent.proto" "Pose2d.proto" "SensorhubCmd.proto" "Vector2d.proto" "StdVector.proto" "DeviceInfo.proto" "Pose3dWithCov.proto" "TargetsData.proto" "LineData.proto" "Path.proto" "Feature2dStore.proto" "MultiOriginLineData.proto" "GroundSemanticDebug.proto" "RawImage.proto" "./" "RoadGraph.proto" "Vector3d.proto" "VisualMapData.proto" "Rs2Intrinsics.proto" "Matrix.proto" "SensorhubEvent.proto" "HardWareCommon.proto" "Measurement.proto" "PointCloud.proto" "Pose3d.proto" "Feature3dStoreAndPose.proto" "Costmap2d.proto")
+
+ ("/home/eric/project/skywalker/common/common_data/include/common_data/" (24891 5096 364546 669000) "security/" "io/" "../" "hardware_common.h" "common.h" "utils/" "./" "tools/" "data/" "net/")
+
+ ("/home/eric/project/skywalker/common/hardware/src/hardware/camera/device/" (24874 150 640343 574000) "../" "camera_device.cc" "./")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/camera_service/include/camera_service/dispatcher/" (24874 150 620343 489000) "../" "stream_producer.h" "frame_dispatcher.h" "./")
+
+ ("/home/eric/project/cameraHAL3/" (24913 37735 550264 640000) "libjpeg-turbo-1.4.0/" "Stream.cpp" "Yuv422UyvyToJpegEncoder.cpp" "VendorTags.h" "../" "ImageConverter.h" "Stream.h" "#OpenNICamera.cpp#" "OpenNICamera.h" "UVCCamera.cpp" "Camera.h" "Yuv422UyvyToJpegEncoder.h" "CameraHAL.cpp" "libusb/" "Metadata.h" "./" "Metadata.cpp" "V4l2Camera.cpp" ".#OpenNICamera.cpp" "Camera.cpp" "libopenni2/" "V4l2Camera.h" "OpenNICamera.cpp" ".git/" "CycleQueue.h" "Workers.cpp" "libuvc/" "Workers.h" "ImageConverter.cpp" "CameraHAL.h" "UVCCamera.h" "Android.mk" "VendorTags.cpp" "DbgUtils.h")
+
+ ("/home/eric/project/skywalker/3rdparty/boost-cmake/" (24723 49177 21720 226000) "README.md" "../" "FindICU.cmake" "boost_1_55_0/" "CMakeLists.txt" ".gitignore" "./" "BoostConfig.cmake.in" "Android.mk.in" "build.sh")
+
+ ("/home/eric/project/skywalker/3rdparty/g2o/" (24793 26900 116790 392000) "README.md" "script/" "../" "appveyor.yml" "Makefile" "g2o/" "CMakeLists.txt" "cmake_modules/" "config.h.in" ".gitignore" "./" "doc/" ".travis.yml" "EXTERNAL/")
+
+ ("/home/eric/project/lanhai-driver/" (24913 27391 380650 40000) "README.md" "uart_win32.cpp" "zero.cpp" "user.cpp" "udp_win32.cpp" "windows/" "bin/" "../" "parser.cpp" "udp_demo.cpp" "tcp_demo.cpp" "uart.c" "data.h" "lidar_stat.py" "./" ".git/" "uart_demo.cpp" "zero.txt" "record.cpp" "build.sh")
+
+ ("/home/eric/project/miscellanea/tmp/" (24910 59056 161081 895000) "incomplete" "filter_record.py" "../" "rec_fail" "record_list" "./" "rec_pass")
+
+ ("/home/eric/project/miscellanea/" (24910 59401 710975 507000) "fetch-clips.py" "server_video_fetch/" "sn_one_record_list" "get_incomplete_visual_record.py" "../" "test_visual_info_list" ".incomplete.swp" "angstrong_android_sdk/" "tmp/" "./" "ir_cam_capture/" ".git/" "#tmp#" "opencl-sdk-1.3/" "cos_fetch/" "video-from-server/")
+
+ ("/home/eric/project/845-android/bionic/libc/" (24889 57408 534839 411000) "arch-arm64/" "version_script.txt" "libc.arm.map" "stdlib/" "fs_config_generator.py" "libstdc++.arm64.map" "SYSCALLS.TXT" "SECCOMP_BLACKLIST_COMMON.TXT" "libc.map.txt" "SECCOMP_WHITELIST_APP.TXT" "arch-arm/" "libstdc++.map.txt" "SECCOMP_WHITELIST_GLOBAL.TXT" "../" "arch-mips/" "libc.mips.map" "upstream-openbsd/" "async_safe/" "upstream-netbsd/" "libc.mips64.map" "libc.x86.map" "tzcode/" "Android.bp" "upstream-freebsd/" "kernel/" "NOTICE" "include/" "versioner-dependencies/" "malloc_hooks/" "./" "malloc_debug/" "SECCOMP_BLACKLIST_APP.TXT" "dns/" "arch-x86_64/" "libstdc++.x86_64.map" "libc.x86_64.map" "seccomp/" "system_properties/" "libstdc++.arm.map" "libc.arm64.map" "arch-mips64/" "private/" "tools/" "arch-x86/" "MODULE_LICENSE_BSD" "libstdc++.mips64.map" "libstdc++.x86.map" "arch-common/" "libstdc++.mips.map" "stdio/" "SECCOMP_WHITELIST_COMMON.TXT" "Android.mk" "SECCOMP_WHITELIST_SYSTEM.TXT" "bionic/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,1 @@
+("~/project/skywalker/" "~/project/nextVPU/3xx/sdk-feynman-camera/" "~/Downloads/emacs-28.1/" "~/.oh-my-zsh/" "~/" "~/project/miscellanea/" "~/project/nextVPU/0407/liehu-feynman/")

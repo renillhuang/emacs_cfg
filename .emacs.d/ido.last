@@ -1,0 +1,266 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "eric/")
+ ("/" . "home/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/" . "graph_path_planner/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/" . "path_planner/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/" . "navigation/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/" . "include/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/" . "navigation/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/" . "flags_config/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/" . "include/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/" . "flags_config/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/" . "chassis_wrapper/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/" . "src/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/" . "hybrid_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/" . "ninjia_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/" . "src/")
+ ("/home/eric/project/skywalker/applications/base/camera_service/" . "conf/")
+ ("/home/eric/project/skywalker/applications/base/" . "camera_service/")
+ ("/home/eric/project/skywalker/applications/" . "base/")
+ ("/home/eric/project/miscellanea/opencl-sdk-1.3/src/examples/" . "basic/")
+ ("/home/eric/project/miscellanea/opencl-sdk-1.3/src/" . "examples/")
+ ("/home/eric/project/miscellanea/" . "opencl-sdk-1.3/")
+ ("/home/eric/project/" . "miscellanea/")
+ ("/home/eric/" . "project/")
+ ("/home/eric/project/skywalker/rover/navigation/src/" . "navigation/")
+ ("/home/eric/project/skywalker/rover/navigation/src/navigation/" . "path_planner/")
+ ("/home/eric/project/skywalker/rover/navigation/" . "src/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/" . "ninjia_slam/")
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/" . "rover/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/eric/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/graph_path_planner/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/flags_config/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/chassis_wrapper/"
+ "/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/hybrid_slam/"
+ "/home/eric/project/skywalker/applications/base/camera_service/conf/"
+ "/home/eric/project/miscellanea/opencl-sdk-1.3/src/examples/basic/"
+ "/home/eric/project/skywalker/rover/navigation/src/navigation/path_planner/"
+ "/home/eric/project/skywalker/rover/navigation/src/navigation/log/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CMakeLists.txt"
+ ".emacs"
+ "graph_path_planner.h"
+ "flags_config.h"
+ "chassis_wrapper.cc"
+ "hybrid_slam.cc"
+ "camera_service_mini2.json"
+ "canny.cpp"
+ "graph_cost_data.cc"
+ "navi_log_loader.cc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/eric/project/skywalker/common/hardware/src/hardware/camera/driver/" (25222 1782 108881 908000) "../" "fm_camera_driver.cc" "v4l2_camera_driver.cc" "fm_camera_driver_manage.cc" "./" "v4l2_camera_driver_manage.cc" "rs_camera_driver_manage.cc" "rs_camera_driver.cc")
+
+ ("/home/eric/project/nextVPU/3xx/sdk-feynman-camera/example/" (25222 433 994810 326000) "cpp.cpp" "callback.c" "../" "upgrade.c" "tcp_server.cpp" "./" "tcp_client.c" "sync.c")
+
+ ("/home/eric/project/0517/camera_service/" (25221 48034 28119 930000) "camera_05-19_10-51-22-493" "camera_05-19_11-03-40-162" "../" "camera_05-19_11-11-54-542" "camera_05-19_11-30-19-695" "camera_newest" "./")
+
+ ("/home/eric/project/skywalker/3rdparty/libfeynman/include/feynman-sdk/" (25221 4088 556729 5000) "nvpfm.h" "../" "ring_queue.h" "./" "yuv_rgb.h" "nvpfm.hpp")
+
+ ("/home/eric/project/devel_betel/etc/" (25194 20891 605444 405000) "camera_service_megabat_silver.json" "sensor_service.conf" "camera_service_mini.json" "../" "camera_service_megabat.json" "camera_params_tracker.ini" "visual_person_tracker_service.conf" "camera_d430_high_accuracy.json" "center_router.conf" "camera_service_waiter.json" "camera_service.conf" "camera_service_mini3.json" "camera_service_waiter_disinfection.json" "./" "daemon_service.conf" "catkin/" "camera_service_unknown.json" "VERSION" "camera_service_mini2.json" "camera_service_ktv2.json" "motor_service.conf" "camera_service_meissa_s.json" "chassis_service.conf")
+
+ ("/home/eric/Downloads/emacs-28.1/" (25188 60124 10376 790000) "oldXMenu/" "lisp/" "Makefile.in" "COPYING" "leim/" ".clang-format" "README" "autogen.sh" "../" "BUGS" "config.bat" "etc/" "Makefile" "INSTALL" "aclocal.m4" "m4/" "src/" "lib/" "nextstep/" "info/" "ChangeLog.2" ".gitattributes" "admin/" "ChangeLog" "lwlib/" "test/" "modules/" "CONTRIBUTE" "config.log" "config.status" ".gitignore" "./" "site-lisp/" "make-dist" "ChangeLog.1" "configure.ac" "ChangeLog.3" "MANIFEST" "doc/" "build-aux/" ".gitlab-ci.yml" "nt/" "lib-src/" "INSTALL.REPO" "msdos/" ".dir-locals.el" "GNUmakefile" "configure")
+
+ ("/home/eric/build_falcon/catkin/" (24879 17008 502100 619000) ".project" "catkin_generated/" "cmi_env.py" "../" "gmock/" "CMakeFiles/" "Makefile" "CTestTestfile.cmake" "gtest/" "CATKIN_IGNORE" "compile_commands.json" "cmake_install.cmake" "./" "catkin/" "CMakeCache.txt" ".cproject" "test_results/")
+
+ ("/home/eric/build_falcon/" (24879 17014 346125 521000) "catkin_simple/" "../" "cmi_logs/" "ninjia_catkin/" "rover_sdk/" "rover_aidl/" "./" "catkin/" "rover_proto/")
+
+ ("/home/eric/" (25190 2398 865428 775000) "buildBK/" "Downloads/" ".bash_history" "opencv_build/" "Videos/" "jira_map_log.txt" "Pictures/" "examples.desktop" "Matlab/" "chassis_test_log" "verify/" ".gnome2/" "jira/" "script/" ".gitconfig" "ubuntu2004.sh" "bk/" "v4l-utils/" "2922.969829.pgm" "android_ndk/" "845-android/" ".bash_logout" "cameraHAL3/" "RSbuild/" "multi-robot/" "feynman_issue" "Templates/" "tmp_unzip/" ".dmrc" "canny.sh" ".emacs_backups/" "build_linux/" "CMakeFiles/" "canny-opencl/" ".xsession-errors.old" "protobuf-parser-tool/" ".gconf/" "config/" "server_script/" "devel_betel/" "pcl/" ".bashrc" "pgm/" "0.png" "devel_falcon/" "laser_point_cloud/" "core" ".emacs.d/" "push.sh" "install_betel/" "Desktop/" "Public/" "Music/" ".profile" "tmp/" "BiSeNet/" "intrinsics.txt" "skywalker/" "laser_data/" "librealsense2.tar.gz" "camera_service/" "camera_newest" "lanhai-driver/" "inverse_projection/" ".sudo_as_admin_successful" ".gnupg/" "buildBK.sh" "calibration_factory/" ".compiz/" "build_betel/" ".ICEauthority" "huangyi-betel-nextvpu_feynman_cam-33cc363_2022-04-15_05-37-15.tar.bz2" ".cache/" ".emacs" ".Xauthority" "build_falcon/" ".gnome2_private/" "ir_cam_capture/" "cp.py" "VINS-Mono/" "catkin/" "install_linux/" "mini-swing/" "PTAM-GPL/" "librealsense/" "doc/" "matlab-script/" "nextVPU/" "ninjia_data/" "qcloud-documents/" "rpg_svo_pro_open/" "opencl-sdk-1.3/" "snpe-1.52.0.2724/" ".local/" "cosbrowser.AppImage" ".mozilla/" "devel_linux/" "mnt/" ".xsession-errors" "depth_image.pgm" "calib_fac/" "img/" "nvidia/" "c_precise/" ".config/" "build.sh" "adrenosdk-linux-5_0/" "feature_manager/" "dataset/" "Documents/" "out.ppm" ".pki/" "log/" "ws_livox/" "livox_data/" "miscellanea/" "../" "./")
+
+ ("/home/eric/bk/" (25165 27455 476969 742000) "Matlab/" "snapdragonprofiler_2021.3_external_linux.tar.gz" "猎户星空豹小秘机器人-企业开放平台 API - 大数据同步 v20210621.pdf" "adrenosdk-linux-5_0.tar.gz" "cosbrowser-2.8.3-linux.zip" "../" "OReilly.Mastering.Bitcoin.2014.12.pdf" "emacs_bk/" "qualcommpackagemanager.lnx_.2.0_installer_20021.2.tar" "./" "opencvwithopencl4androidndk-141129030940-conversion-gate02.pdf.zip" "猎户星空豹小秘机器人-企业开放平台 API - 基础和鉴权 v20210303.pdf" "snpe-1.52.0.zip" "opencl-sdk-1.3.zip")
+
+ ("/home/eric/project/nextVPU/liehu-feynman/" (25127 13793 217304 192000) "build/" "test_realsense" "../" "libusb-1.0.24/" "Makefile" "bashrc" "TAGS" "CMakeLists.txt" "readme.txt" "librealsense2.so" "./" "test_feynman_center_depth.cc" "libc++.a" ".git/" "feynman-sdk/" "makefile" "librealsense2/" "libusb1.0.so")
+
+ ("/home/eric/project/skywalker/common/hardware/" (25127 9535 281630 95000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/camera_service/" (25127 7262 100542 411000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml" "conf/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/camera_service/src/camera_service/" (25127 7224 428531 80000) "dispatcher/" "stream_consumer.cc" "camera_service_flags.cc" "../" "camera_service_proxy.cc" "main_camera_service.cc" "./" "camera_service.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/src/hardware/camera/driver/" (25127 1272 18943 229000) "../" "fm_camera_driver.cc" "v4l2_camera_driver.cc" "fm_camera_driver_manage.cc" "./" "v4l2_camera_driver_manage.cc" "rs_camera_driver_manage.cc" "rs_camera_driver.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/" (25127 1878 616243 20000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/include/hardware/camera/driver/" (25127 1731 211963 105000) "camera_driver_manage.h" "camera_driver.h" "../" "fm_camera_driver_manage.h" "v4l2_camera_driver_manage.h" "rs_camera_driver_manage.h" "./" "v4l2_camera_driver.h" "fm_camera_driver.h" "rs_camera_driver.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/common_data/include/common_data/data/" (25121 34911 762667 425000) "velocity_2d.h" "navi_pose.h" "motor_cmd.h" "multi_robots_data.h" "device_info.h" "multi_origin_line_data.h" "navi_state.h" "camera_cmd.h" "sensorhub_event.h" "feature_reject_data.h" "grid.h" "global_env_data.h" "relocate_data.h" "image_laser_data.h" "vox_tf.h" "measurement.h" "grid_tf.h" "../" "feature3d_store.h" "road_graph.h" "sensorhub_cmd.h" "feature2d_store.h" "raw_image.h" "rs2_intrinsics.h" "point_cloud_template.h" "costmap_2d.h" "goal.h" "feature3d_store_and_pose.h" "danger_zone_target.h" "unaligned_gpu_mat.h" "image_sampling_info.h" "visual_map_data.h" "vox_map.h" "point_cloud.h" "covariance.h" "line_data.h" "./" "grid_map.h" "image.h" "union_data.h" "depth_image.h" "pose_3d_with_cov.h" "pose_2d.h" "output_stream.h" "unique_id.h" "pose_3d.h" "pose_2d_covariance.h" "stamp.h" "polar_obstacle_2d.h" "ground_semantic_debug_data.h" "orientation.h" "camera_event.h" "realtime_env_data.h" "input_stream.h" "parcel_interface.h" "image_interface.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/camera_service/include/camera_service/" (25126 49077 205132 525000) "dispatcher/" "../" "stream_consumer.h" "./" "camera_service_proxy.h" "camera_service_flags.h" "camera_service.h")
+
+ ("/home/eric/project/nextVPU/liehu-feynman/feynman-sdk/" (25125 57852 782683 745000) "yuv_rgb.c" "feynman_sdk.cpp" "feynman_upgrade_module.cpp" "../" "ring_queue.h" "./" "ring_queue.cpp" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/nextVPU/liehu-feynman/" (25125 57724 561640 816000) "build/" "test_realsense" "../" "libusb-1.0.24/" "Makefile" "bashrc" "TAGS" "CMakeLists.txt" "readme.txt" "librealsense2.so" "./" "test_feynman_center_depth.cc" "libc++.a" ".git/" "feynman-sdk/" "makefile" "librealsense2/" "libusb1.0.so")
+
+ ("/home/eric/project/" (25125 49777 843451 578000) "laser_point_cloud-single_leg.zip" "opencv_build/" "huangyi-betel-new_master-aead11d_2022-02-22_02-54-12.tar.bz2" "huangyi-betel-new_master-db2c1d5_2022-02-23_05-16-00.tar.bz2" "examples.desktop" "Matlab/" "verify/" "jira/" "script/" ".gitconfig" "ubuntu2004.sh" "bk/" "huangyi-betel-orbbec-integration-0b8dca9_2021-11-05_06-41-15.tar.bz2" "2922.969829.pgm" "android_ndk/" "845-android/" ".bash_logout" "cameraHAL3/" "multi-robot/" "tmp_unzip/" "canny.sh" "huangyi-betel-nextvpu_feynman_cam-d7fe182_2021-12-10_01-55-55.tar.bz2" "build_linux/" "CMakeFiles/" "canny-opencl/" "config/" "server_script/" "devel_betel/" ".bashrc" "pgm/" "0.png" "huangyi-betel-new_master-db2c1d5_2022-02-23_05-16-00_debug.tar.bz2" "devel_falcon/" "laser_point_cloud/" "push.sh" "install_betel/" ".profile" "tmp/" "BiSeNet/" "huangyi-betel-nextvpu_feynman_cam-23987b9_2022-02-22_11-12-42.tar.bz2" "skywalker/" "laser_point_cloud_multi-leg.zip" "laser_data/" "libusb/" "OrbbecDabai/" "lanhai-driver/" "inverse_projection/" "D430usb3to2/" "buildBK.sh" "huangyi-betel-nextvpu_feynman_cam-2b98dc2_2022-03-07_08-28-03.tar.bz2" "build_betel/" ".cache/" "build_falcon/" "ir_cam_capture/" "cp.py" "VINS-Mono/" "catkin/" "install_linux/" "liblog/" "mini-swing/" "PTAM-GPL/" "librealsense/" "pytorch-animeGAN/" "doc/" "matlab-script/" "nextVPU/" "ninjia_data/" "qcloud-documents/" "rpg_svo_pro_open/" "opencl-sdk-1.3/" "snpe-1.52.0.2724/" "cosbrowser.AppImage" "devel_linux/" "libuvc/" "mnt/" "depth_image.pgm" "img/" "nvidia/" "build.sh" "adrenosdk-linux-5_0/" "feature_manager/" "dataset/" "out.ppm" "log/" "miscellanea/" "../" "./")
+
+ ("/home/eric/project/img/" (24897 47402 428293 551000) "threshold20057.png" "threshold21945.png" "threshold26033.png" "threshold21415.png" "threshold27029.png" "threshold26282.png" "threshold20003.png" "threshold27106.png" "threshold20055.png" "threshold16471.png" "threshold26527.png" "threshold34108.png" "threshold26367.png" "threshold16453.png" "threshold32325.png" "threshold32372.png" "threshold27063.png" "threshold32424.png" "threshold32406.png" "threshold32573.png" "threshold27298.png" "threshold27020.png" "threshold17361.png" "threshold26287.png" "threshold27286.png" "threshold18327.png" "threshold32652.png" "threshold19995.png" "threshold20855.png" "threshold27395.png" "threshold32572.png" "threshold19491.png" "threshold26277.png" "threshold34102.png" "threshold32574.png" "threshold34357.png" "threshold21343.png" "threshold18314.png" "threshold26186.png" "threshold26034.png" "threshold32422.png" "threshold19471.png" "threshold32385.png" "threshold27088.png" "threshold32393.png" "threshold32166.png" "threshold32566.png" "threshold19527.png" "threshold32334.png" "threshold34126.png" "threshold32416.png" "threshold32168.png" "threshold21146.png" "threshold32164.png" "threshold26026.png" "threshold32160.png" "threshold32655.png" "threshold19752.png" "threshold19494.png" "threshold25485.png" "threshold31599.png" "threshold27080.png" "threshold21127.png" "threshold31600.png" "threshold19736.png" "threshold32631.png" "threshold32383.png" "threshold32338.png" "threshold20046.png" "threshold32627.png" "threshold22013.png" "threshold19525.png" "threshold32448.png" "threshold34095.png" "threshold32419.png" "threshold32337.png" "threshold20047.png" "threshold32377.png" "threshold27097.png" "threshold32413.png" "threshold21148.png" "threshold27057.png" "threshold18320.png" "threshold25965.png" "threshold32398.png" "threshold34105.png" "threshold27022.png" "threshold26434.png" "threshold32343.png" "threshold32341.png" "threshold32643.png" "threshold32645.png" "threshold34115.png" "threshold18324.png" "threshold27098.png" "threshold21323.png" "threshold32324.png" "threshold32336.png" "threshold32639.png" "threshold21130.png" "threshold26358.png" "threshold32575.png" "threshold27082.png" "threshold27062.png" "threshold20002.png" "threshold20020.png" "threshold19753.png" "threshold27064.png" "threshold26342.png" "threshold27081.png" "threshold32386.png" "threshold19737.png" "threshold20851.png" "threshold27095.png" "threshold32379.png" "threshold32681.png" "threshold21358.png" "threshold27070.png" "threshold17362.png" "threshold27030.png" "threshold26356.png" "threshold27089.png" "threshold32157.png" "threshold21362.png" "threshold17379.png" "threshold32374.png" "threshold32561.png" "threshold31598.png" "threshold27066.png" "threshold21121.png" "threshold27073.png" "threshold18023.png" "threshold26345.png" "threshold27383.png" "threshold20016.png" "threshold32328.png" "threshold32147.png" "threshold32318.png" "threshold32428.png" "threshold20854.png" "threshold32158.png" "threshold27393.png" "threshold32161.png" "threshold32567.png" "threshold32412.png" "threshold34114.png" "threshold19519.png" "threshold26255.png" "threshold27031.png" "threshold26354.png" "threshold32314.png" "threshold32403.png" "threshold34374.png" "threshold32698.png" "threshold27074.png" "threshold19993.png" "threshold18953.png" "threshold25589.png" "threshold21149.png" "threshold26353.png" "threshold27091.png" "threshold21124.png" "threshold21361.png" "threshold32644.png" "threshold27099.png" "threshold26528.png" "threshold34111.png" "threshold27104.png" "threshold26355.png" "threshold21123.png" "threshold34094.png" "threshold26346.png" "threshold26288.png" "threshold32641.png" "threshold27025.png" "threshold32163.png" "threshold20056.png" "threshold18022.png" "threshold32335.png" "threshold32556.png" "threshold34109.png" "threshold27384.png" "threshold32342.png" "threshold32167.png" "threshold32394.png" "threshold32559.png" "threshold18303.png" "threshold32316.png" "threshold26279.png" "threshold32562.png" "threshold32418.png" "threshold18304.png" "threshold26368.png" "threshold31601.png" "threshold21350.png" "threshold26037.png" "threshold18952.png" "threshold32648.png" "threshold34366.png" "threshold32410.png" "threshold26351.png" "threshold27094.png" "threshold26365.png" "threshold32333.png" "threshold32678.png" "threshold19481.png" "threshold32373.png" "threshold25947.png" "threshold26278.png" "threshold32557.png" "threshold26364.png" "threshold27085.png" "threshold26556.png" "threshold32387.png" "threshold27299.png" "threshold32148.png" "threshold21359.png" "threshold31605.png" "threshold32404.png" "threshold27054.png" "threshold18518.png" "threshold26332.png" "threshold34124.png" "threshold20153.png" "threshold32153.png" "threshold27092.png" "threshold15486.png" "threshold32380.png" "threshold21132.png" "threshold16475.png" "threshold32397.png" "threshold19517.png" "threshold32370.png" "threshold28258.png" "threshold17380.png" "threshold26016.png" "threshold32332.png" "threshold27301.png" "threshold26379.png" "threshold32145.png" "threshold32449.png" "threshold34121.png" "threshold32415.png" "threshold27059.png" "threshold32411.png" "threshold32563.png" "threshold31604.png" "threshold19512.png" "threshold27053.png" "threshold20025.png" "threshold27396.png" "threshold26359.png" "threshold27108.png" "threshold19482.png" "threshold32632.png" "threshold32554.png" "threshold20852.png" "threshold26280.png" "threshold31596.png" "threshold27392.png" "threshold26293.png" "threshold32155.png" "threshold27090.png" "threshold18525.png" "threshold18307.png" "threshold21126.png" "threshold21416.png" "threshold27033.png" "threshold26371.png" "threshold21133.png" "threshold16480.png" "threshold27100.png" "threshold19600.png" "threshold32646.png" "threshold26348.png" "threshold32629.png" "threshold26289.png" "threshold27096.png" "threshold21338.png" "threshold27102.png" "threshold27093.png" "threshold27034.png" "threshold32170.png" "threshold26036.png" "threshold32568.png" "threshold27021.png" "threshold26285.png" "threshold27103.png" "threshold26341.png" "threshold32146.png" "threshold32399.png" "threshold32421.png" "threshold32633.png" "threshold27058.png" "threshold34375.png" "threshold26352.png" "threshold32560.png" "threshold27300.png" "threshold32382.png" "threshold27024.png" "threshold27387.png" "threshold15485.png" "threshold20048.png" "threshold18522.png" "threshold21151.png" "threshold26362.png" "threshold19518.png" "threshold19709.png" "threshold32371.png" "threshold19511.png" "threshold18519.png" "threshold19470.png" "threshold32152.png" "threshold32315.png" "threshold27065.png" "threshold21351.png" "threshold27056.png" "threshold16462.png" "threshold26292.png" "threshold19994.png" "threshold27101.png" "threshold27032.png" "threshold32634.png" "threshold18524.png" "threshold32642.png" "threshold16472.png" "threshold32407.png" "threshold27023.png" "threshold34127.png" "threshold32327.png" "threshold16452.png" "threshold34123.png" "threshold26357.png" "threshold27105.png" "threshold32569.png" "threshold32640.png" "threshold32395.png" "threshold32409.png" "threshold32173.png" "threshold26027.png" "threshold34103.png" "threshold32339.png" "threshold26291.png" "threshold34101.png" "threshold26283.png" "threshold26284.png" "threshold32317.png" "threshold32159.png" "threshold26374.png" "threshold31597.png" "threshold32330.png" "threshold34365.png" "threshold32637.png" "threshold32340.png" "threshold32400.png" "threshold32636.png" "threshold26380.png" "threshold32312.png" "threshold32323.png" "threshold34120.png" "threshold32565.png" "threshold26349.png" "threshold32555.png" "threshold27060.png" "threshold26286.png" "threshold34356.png" "threshold32552.png" "threshold18306.png" "threshold19492.png" "threshold21894.png" "threshold15456.png" "threshold32329.png" "threshold26347.png" "threshold20026.png" "threshold21344.png" "threshold26363.png" "threshold32154.png" "threshold32150.png" "threshold21152.png" "threshold32151.png" "threshold26344.png" "threshold21129.png" "threshold27084.png" "threshold32553.png" "threshold18328.png" "threshold26649.png" "threshold26343.png" "threshold32165.png" "threshold26433.png" "threshold26350.png" "threshold19631.png" "threshold19523.png" "threshold27287.png" "threshold18319.png" "threshold32628.png" "threshold32649.png" "threshold34112.png" "threshold26276.png" "threshold27055.png" "threshold25647.png" "threshold27288.png" "threshold32425.png" "threshold32313.png" "threshold18316.png" "threshold27061.png" "threshold19526.png" "threshold15335.png" "threshold25588.png" "threshold26375.png" "threshold32571.png" "threshold26361.png" "threshold32384.png" "threshold26185.png" "threshold21145.png" "threshold27302.png" "threshold32564.png" "threshold32381.png" "threshold26555.png" "threshold32376.png" "threshold27069.png" "threshold18315.png" "threshold26373.png" "threshold34100.png" "threshold32375.png" "threshold15495.png" "threshold26360.png" "threshold21310.png" "threshold32169.png" "threshold32172.png" "threshold18313.png" "threshold16476.png" "threshold32149.png" "threshold27087.png" "threshold19524.png" "threshold27386.png" "threshold25648.png" "threshold32570.png" "threshold25671.png" "threshold19493.png" "threshold20019.png" "threshold19708.png" "threshold26281.png" "threshold21363.png" "threshold21311.png" "threshold25672.png" "threshold32651.png" "threshold26017.png" "threshold32630.png" "threshold32331.png" "threshold18323.png" "threshold32360.png" "threshold26370.png" "threshold32558.png" "threshold19490.png" "threshold32162.png" "threshold32396.png" "threshold16461.png" "../" "./")
+
+ ("/home/eric/project/nextVPU/camera_service/" (25125 50217 367001 784000) "../" "camera_03-07_16-32-31-533" "camera_newest" "./")
+
+ ("/home/eric/project/nextVPU/" (25118 56642 219160 121000) "../" "liehu-feynman/" "liehu.tar.gz" "android-feynman-camera/" "cam_param.txt" "./")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/" (24969 59799 470832 853000) "gradle/" "gradle.properties" "../" ".idea/" "app/" "build.gradle" "readme.txt" ".gitignore" "gradlew.bat" "./" "settings.gradle" ".git/" "gradlew")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/" (24969 59513 893874 821000) "proguard-rules.pro" "../" "src/" "build.gradle" ".gitignore" "./")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/src/" (24969 59513 901874 847000) "../" "test/" "main/" "./" "androidTest/")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/src/main/" (24969 59513 901874 847000) "res/" "cpp/" "../" "AndroidManifest.xml" "java/" "./")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/src/main/cpp/" (24984 27262 124286 829000) "libusb-support/" "build/" "../" "native-lib.cpp" "TAGS" "CMakeLists.txt" "BUILD" "./" "feynman-sdk/")
+
+ ("/home/eric/project/nextVPU/android-feynman-camera/app/src/main/cpp/build/" (24989 43544 724006 547000) "../" "CMakeFiles/" "Makefile" "libfeynman.so" "cmake_install.cmake" "./" "CMakeCache.txt")
+
+ ("/home/eric/project/android_ndk/android-ndk-r18b/build/" (23486 55086 0 0) "__init__.py" "../" "ndk-build.cmd" "gen_compile_db.py" "test_extract_manifest.py" "extract_platform.py" "cmake/" "gen_cygpath.py" "core/" "lib/" "test_gen_cygpath.py" "./" "ldflags_to_sanitizers.py" "extract_manifest.py" "tools/" "ndk-build" "test_ldflags_to_sanitizers.py" "test_extract_platform.py" "dump_compile_commands.py" "gmsl/")
+
+ ("/home/eric/project/android_ndk/android-ndk-r18b/" (24914 36922 252992 8000) "ndk-stack" "README.md" "clanghelp" "build/" "ndk-which" "../" "python-packages/" "meta/" "toolchains/" "sysroot/" "ndk-gdb" "simpleperf/" "CHANGELOG.md" "NOTICE" "NOTICE.toolchain" "sources/" "./" "prebuilt/" "ndk-depends" "ndk-build" "wrap.sh/" "shader-tools/" "source.properties" "platforms/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/nextVPU/liehu-feynman/feynman-sdk/" (25118 60286 241494 388000) "yuv_rgb.c" "feynman_sdk.cpp" "feynman_upgrade_module.cpp" "../" "ring_queue.h" "./" "ring_queue.cpp" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/include/ninjia_slam/pretreater/" (25118 6683 772996 870000) "lidar_counter.h" "../" "./" "imu_tracker.h" "odom_imu_filter.h" "laser_result.h" "data_pretreater.h")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/common_data/include/common_data/utils/" (25117 48759 135573 896000) "point_cloud_utils.h" "angle_utils.h" "file_utils.h" "costmap_utils.h" "../" "geometry_utils.h" "string_utils.h" "common_utils.h" "auth_utils.h" "container_utils.h" "stream_io_utils.h" "image_utils.h" "robot_utils.h" "save_msg_to_file.h" "./" "c++14_utils.h" "time_utils.h" "proto_utils.h" "aligned_utils.h" "error_utils.h" "zip_utils.h" "fresnel_utils.h" "thread_utils.h")
+
+ ("/home/eric/project/skywalker/closed/ninjia_slam/src/ninjia_slam/data/" (25117 51293 546599 730000) "../" "point_grid.cc" "env_data.cc" "./")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/" (25108 46289 758127 323000) "modify_lists.md" "README.md" "dockerfiles/" "3rdparty/" "setup.sh" "catkin_simple/" "../" "ninjia_catkin/" "continuous-integration/" "TAGS" "visual_module/" ".gitignore" "build_helper/" "./" "closed/" "prebuilt/" "applications/" "catkin/" "rover/" ".git/" ".gitreview" "tools/" ".gitlab-ci.yml" "experimental/" "common/")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/bin/" (25117 48100 249282 167000) "lcov_cobertura.py" "../" "ninjia_make" "./" "lcov_cobertura.pyc" ".#ninjia_make" "__pycache__/")
+
+ ("/home/eric/project/skywalker/" (25108 46289 758127 323000) "modify_lists.md" "README.md" "dockerfiles/" "3rdparty/" "setup.sh" "catkin_simple/" "../" "ninjia_catkin/" "continuous-integration/" "TAGS" "visual_module/" ".gitignore" "build_helper/" "./" "closed/" "prebuilt/" "applications/" "catkin/" "rover/" ".git/" ".gitreview" "tools/" ".gitlab-ci.yml" "experimental/" "common/")
+
+ ("/home/eric/project/miscellanea/camera/" (25112 22034 367250 461000) "../" "output/" "depth_camera.rec" "./" "dataset_depth_decoder.py")
+
+ ("/home/eric/project/D430usb3to2/camera_service/" (25109 52553 392258 971000) "../" "camera_02-23_13-54-51-046" "camera_newest" "./")
+
+ ("/opt/ros/kinetic/" (25074 27326 755883 95000) "include/" "setup.bash" "lib/" "setup.sh" "env.sh" ".catkin" "setup.zsh" "bin/" "local_setup.sh" ".rosinstall" "./" "etc/" "_setup_util.py" "../" "share/" "local_setup.zsh" "local_setup.bash")
+
+ ("/home/eric/project/skywalker/catkin/" (25003 14613 793245 988000) "python/" "setup.py" "README.rst" "bin/" "../" "cmake/" "rosdoc.yaml" "CMakeLists.txt" "test/" ".gitignore" "./" "package.xml" "doc/" "CHANGELOG.rst" "libs/" "LICENSE")
+
+ ("/home/eric/project/skywalker/build_helper/" (24793 26902 924801 956000) "init_env.sh" "../" "./")
+
+ ("/home/eric/project/skywalker/tools/Linux/ndk/platforms/android-21/arch-arm/usr/include/android/" (24723 49184 349745 241000) "../" "sensor.h" "./")
+
+ ("/home/eric/project/skywalker/prebuilt/" (24723 49184 185744 683000) "README.md" "linux/" "../" "CMakeLists.txt" "./" "package.xml" "betel/" "falcon/")
+
+ ("/home/eric/project/skywalker/dockerfiles/" (25087 32625 93773 934000) "Dockerfile.xenial-cuda-8" "Dockerfile.alpine-oraclejdk8" "Dockerfile.android" "../" "Dockerfile.xenial-ros-kinetic-xmas" "Dockerfile.xenial-ndk-sdk" "Dockerfile.xenial" "Dockerfile.cuda" "./" "Dockerfile.trusty-cuda-8" "Dockerfile.xenial-cuda-7" "Dockerfile.alpine")
+
+ ("/home/eric/project/skywalker/tools/Linux/catkin_env/lib/python2.7/site-packages/funcsigs/" (24723 49184 265744 955000) "__init__.py" "../" "version.py" "./")
+
+ ("/home/eric/project/pytorch-animeGAN/" (24990 11879 71745 908000) "README.md" "inference_image.py" "anime-gan.zip" "script/" "requirements.txt" "notebooks/" "../" "inference_video.py" "predict.py" "utils/" "cog.yaml" "train.py" "dataset.py" ".gitignore" "modeling/" "test.py" "./" "example/" "content/" ".git/" "inference.py" "dataset/")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/cmake/Modules/" (25095 8646 365317 516000) "CheckCSourceCompiles.cmake" "FindGFlags.cmake" "FindGTest.cmake" "FindPackageMessage.cmake" "FindGLog.cmake" "CMakeParseArguments.cmake" "FindNlOpt.cmake" "FindPackageHandleStandardArgs.cmake" "FindCVARS.cmake" "FindSnpe.cmake" "FindProtobuf.cmake" "FindTinyXML.cmake" "FindRealSense.cmake" "FindOrbbec.cmake" "FindOpenNI2.cmake" "FindInferenceEngine.cmake" "FindBoostLib.cmake" "../" "FindDlcv.cmake" "FindLibUSB.cmake" "FindMNN.cmake" "FindCUDA/" "FindIsam.cmake" "Findgflags.cmake" "FindLibNabo.cmake" "FindZeroMQ.cmake" "LibFindMacros.cmake" "FindSuiteSparse.cmake" "FindTBB.cmake" "FindOpenMP.cmake" "FindCXSparse.cmake" "FindGtsam.cmake" "./" "FindCUDA.cmake" "FindLibevent.cmake" "FindG2o.cmake" "FindCalibu.cmake" "utils.cmake" "FindCLAPACK.cmake" "FindGMock.cmake" "FindPugiXML.cmake" "FindLibUvc.cmake" "CheckCXXSourceCompiles.cmake" "FindEigen3.cmake")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/ninjia_catkin/cmake/Modules/" (25094 21227 366744 242000) "CheckCSourceCompiles.cmake" "FindGFlags.cmake" "FindGTest.cmake" "FindPackageMessage.cmake" "FindGLog.cmake" "CMakeParseArguments.cmake" "FindNlOpt.cmake" "FindPackageHandleStandardArgs.cmake" "FindCVARS.cmake" "FindSnpe.cmake" "FindProtobuf.cmake" "FindTinyXML.cmake" "FindRealSense.cmake" "FindOrbbec.cmake" "FindOpenNI2.cmake" "FindInferenceEngine.cmake" "FindBoostLib.cmake" "../" "FindDlcv.cmake" "FindLibUSB.cmake" "FindMNN.cmake" "FindCUDA/" "FindIsam.cmake" "Findgflags.cmake" "FindLibNabo.cmake" "FindZeroMQ.cmake" "LibFindMacros.cmake" "FindSuiteSparse.cmake" "FindTBB.cmake" "FindOpenMP.cmake" "FindCXSparse.cmake" "FindGtsam.cmake" "./" "FindCUDA.cmake" "FindLibevent.cmake" "FindG2o.cmake" "FindCalibu.cmake" "utils.cmake" "FindCLAPACK.cmake" "FindGMock.cmake" "FindPugiXML.cmake" "FindLibUvc.cmake" "CheckCXXSourceCompiles.cmake" "FindEigen3.cmake")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/3rdparty/g2o/" (25094 20486 849849 464000) "README.md" "script/" "bin/" "../" "appveyor.yml" "Makefile" "g2o/" "CMakeLists.txt" "lib/" "cmake_modules/" "G2OConfig.cmake.in" "config.h.in" ".gitignore" "./" "doc/" ".travis.yml" "EXTERNAL/" "G2OConfigVersion.cmake.in")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/3rdparty/g2o/cmake_modules/" (25094 14270 685536 644000) "FindG2OBBBKKK.cmake" "../" "FindLAPACK.cmake" "FindBLAS.cmake" "FindCholmod.cmake" "FindSuiteSparse.cmake" "FindCXSparse.cmake" "./" "FindQGLViewer.cmake" "FindEigen3.cmake")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/target_detector/" (25092 49499 469287 326000) "README.md" "../" "src/" "CMakeLists.txt" "test/" "include/" "./" "package.xml" "proto/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/3rdparty/g2o_catkin/" (25094 13017 61626 82000) "README.md" "../" "cmake/" "src/" "CMakeLists.txt" ".gitignore" "./" "package.xml")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/teb_local_planner/" (25092 49499 473287 344000) "README.md" "test_optim_node.cc" "../" "msg/" "src/" "CMakeLists.txt" "cmake_modules/" "cfg/" "test/" "include/" "scripts/" "./" "package.xml" "CHANGELOG.rst" "launch/" "LICENSE")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/3rdparty/suite_sparse/" (25094 11118 649594 317000) "README.md" "UseSuiteSparseForInstall.cmake.in" "bin/" "../" "metis/" "CMakeLists.txt" "#CMakeLists.txt#" "LICENSE.md" "checkGetSuiteSparse.cmake" ".gitignore" "SuiteSparse/" "./" "SuiteSparseConfigForInstall.cmake")
+
+ ("/home/eric/project/skywalker/3rdparty/g2o_catkin/" (25092 49158 808230 29000) "README.md" "../" "cmake/" "src/" "CMakeLists.txt" ".gitignore" "./" "package.xml")
+
+ ("/home/eric/project/build_betel/suite_sparse_catkin/SuiteSparse-prefix/src/SuiteSparse-build/CMakeFiles/" (25088 46159 549623 575000) "feature_tests.cxx" "Makefile.cmake" "CMakeError.log" "feature_tests.bin" "../" "feature_tests.c" "3.12.0/" "Export/" "cmake.check_cache" "progress.marks" "CMakeOutput.log" "./" "CMakeDirectoryInformation.cmake" "CMakeTmp/" "Makefile2" "TargetDirectories.txt")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/ros2_service/src/" (25077 5059 192651 308000) "../" "ros2_driver/" "main.cc" "motor_service/" "./" "sensor_service/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/hardware/include/hardware/sensorhub/" (24891 5096 392546 589000) "orion_sensorhub.h" "helper/" "../" "./" "sensorhub.h")
+
+ ("/home/eric/project/skywalker/common/hardware/src/hardware/sensorhub/" (25010 49199 109442 799000) "orion_sensorhub.cc" "../" "./" "sensorhub.cc")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/simulation_tool/src/" (24793 26902 924801 956000) "ros_motor.cc" "test.cc" "../" "chassis_simulator.cc" "ros_driver.cc" "./")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/simulation_tool/" (24793 26902 924801 956000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/devel_linux/include/eigen3/Eigen/" (25034 50730 308045 958000) "Core" "QR" "LU" "SparseQR" "Sparse" "StdDeque" "SparseLU" "SparseCore" "PardisoSupport" "SVD" "QtAlignedMalloc" "../" "Cholesky" "MetisSupport" "Geometry" "src/" "Dense" "PaStiXSupport" "Eigenvalues" "CholmodSupport" "SPQRSupport" "IterativeLinearSolvers" "Householder" "./" "SparseCholesky" "SuperLUSupport" "Eigen" "OrderingMethods" "StdVector" "UmfPackSupport" "Jacobi" "StdList")
+
+ ("/home/" (25016 46133 280432 938000) "./" "eric/" "../")
+
+ ("/home/eric/project/skywalker/closed/" (24981 47527 487143 963000) "crp/" "target_detector/" "vins_feature_tracker/" "n-point-mle/" "direct-least-squares-pnp/" "two-point-ransac/" "camera_capture/" "robot_toolbox/" "cv_algorithm/" "zero-point-ransac/" "orb-detector-matcher/" "generic-ransac/" "camera_model/" "ninjia_slam/" "sm_timing/" "sparse-mapping/" "absolute-camera-pose/" "person_tracker/" "grid-gen/" "rf/" "scene_segmentation/" "cvflyby/" "network/" "../" "multi_robots_data_manager/" "apriltags/" "star_topology/" "apriltag2_catkin/" "vio-data-producer/" "laser-optimizer/" "data_pretreater/" "lora/" "recharge_location/" "imu_pose_estimate/" "deep_lcd/" "visual_relocalization_dbow/" "affine-klt/" "calibration_tools/" "visual-inertial-odometry/" "imu_tk/" "visual_person_tracker/" "pmd_test/" "vins_estimator/" "xvisio_test/" "feature-tracker/" "vins_pose_graph/" "imu-processor/" "statistics/" "./" "integrator/" "dense-mapping/" "ransac/" "segmap/" "pose_graph/" "feature_detector/" "tk1_server/" "vision_manager/" "costmap_2d/" "GCNv2/" "simple-vis-relocalization/" "inflation_manager/" "depth-image-calibration/" "base_ba/" "laser_slam/" "scene_segmentation_dlcv/" "deterministic-initialization/" "small-scale-ba/" "super_point/" "line-detector/" "sliding-triangulation/" "icp/" "numerics-toolbox/" "superpoint_dlcv/" "vanishing-point-ransac/" "brisk-feature-matcher/" "loop-closure/" "base_openvino/" "five-point-ransac/")
+
+ ("/home/eric/project/skywalker/rover/navigation/src/navigation/path_planner/" (25037 19532 566452 675000) "straightener.cc" "angle_speed_limit.cc" "path_speed_planner.cc" "graph_path_planner/" "../" "map_leading_path_planner.cc" "smoother.cc" "./" "path_planner.cc" "local_a_star_searcher.cc" "a_star_searcher.cc" "path_map_treater.cc" "path_logger.cc")
+
+ ("/home/eric/project/skywalker/applications/base/camera_service/conf/" (25010 49198 817441 763000) "version.h.in" "99-realsense-libusb.rules" "camera_service_megabat_silver.json" "camera_service_mini.json" "../" "camera_service_megabat.json" "99-camera-service.rules" "camera_d430_high_accuracy.json" "camera_service_waiter.json" "camera_service_mini3.json" "./" "camera_service_unknown.json" "camera_service_mini2.json" "camera_service_ktv2.json" "conf.in" "camera_service_meissa_s.json")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/closed/ninjia_slam/src/ninjia_slam/hybrid_slam/" (25010 49198 981442 345000) "location_processor.cc" "location_matcher.cc" "realtime_processor.cc" "hybrid_slam_log.cc" "relocation_processor.cc" "../" "laser_grid_filter.cc" "delta_pose_calculator.cc" "hybrid_slam.cc" "./" "mapping_processor.cc" "slip_checker.cc" "realtime_map_manager.cc" "point_grid_cache.cc" "odom_logger.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/chassis_wrapper/src/chassis_wrapper/" (25037 19532 494452 620000) "robot_monitor.cc" "push_detection.cc" "navi_cloud_record.cc" "../" "sensor_checker.cc" "chassis_wrapper.cc" "./" "sensor_report.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/applications/base/flags_config/include/flags_config/" (25037 19532 494452 620000) "../" "flags_config.h" "./")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/rover/navigation/include/navigation/path_planner/graph_path_planner/" (25037 19532 562452 672000) "graph_path_logger.h" "road_point.h" "../" "cost_calculator.h" "priority.h" "road_point_cache.h" "graph_path_inflater.h" "road_point_searcher.h" "avoid_level.h" "./" "robot_info.h" "graph_path_planner.h" "road_path_calculator.h" "utils.h")
+
+ ("/home/eric/project/skywalker/closed/base_ba/test/" (25038 32782 723081 325000) "sphere.g2o" "../" "test_crp_reproj_factor.cc" "test_pose_graph.cc" "test_target_reproject_factor.cc" "./" "test_isam2_crash.cc" "test_ba.cc")
+
+ ("/home/eric/project/skywalker/closed/base_ba/" (24991 18283 412720 616000) "../" "src/" "CMakeLists.txt" "test/" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/affine-klt/" (24793 26902 924801 956000) "../" "src/" "CMakeLists.txt" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/absolute-camera-pose/" (24793 26902 924801 956000) "../" "CMakeLists.txt" "test/" "include/" "./" "package.xml")
+
+ ("/home/eric/project/skywalker/closed/vision_manager/" (24991 18283 492720 887000) "../" "src/" "CMakeLists.txt" "test/" "include/" "./" "package.xml" "proto/")
+
+ ("/home/eric/project/skywalker/3rdparty/qt_build/" (24793 26902 324799 482000) ".project" "../" "cmake/" "CMakeLists.txt" "qt-ros.cmake" "./" "package.xml" ".cproject" "CHANGELOG.rst")
+
+ ("/home/eric/project/skywalker/applications/ubuntu_ui/debug_tool/" (25010 49198 837441 835000) "../" "src/" "CMakeLists.txt" "ui/" "resources/" "include/" "./" "package.xml" "conf/")
+
+ ("/home/eric/project/skywalker/3rdparty/opencv_catkin/" (25010 2323 45321 710000) "../" "CMakeLists.txt" "./" "package.xml" "Android.mk.in" "Android.mk")
+
+ ("/home/eric/project/skywalker/ninjia_catkin/cmake/" (24981 47527 803144 915000) "android.toolchain.cmake" "NinjiaExternalProject.cmake" "ndk_dep_builder.pyc" "ndk_dep_builder.py" "generate_ndk_import_module.py" "future_depend-extras.cmake.in" "../" "ninjia_catkin-extras.cmake.em" "AndroidTools.cmake" "EnableCoverageInUnit.cmake" "Modules/" "NinjiaDetectCUDA.cmake" "CustomizeTools.cmake" "NinjiaDummyProjects.cmake" "./" "ndk-configure-wrapper/" "em/" "templates/" "NinjiaSetup.cmake" "GlobalNinjiaDefines.cmake" "NinjiaDetectCUDA.cmake.bak" "android8.toolchain.cmake" "app-version.sh" "android_run_tests.py")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/catkin/python/catkin/cmi/" (25033 38123 669075 154000) "context.py" "output.pyc" "run_windows.py" "terminal_color.py" "common.pyc" "run_unix.py" "executor.pyc" "build.py" "__init__.py" "cli.pyc" "color.pyc" "../" "common.py" "build.pyc" "color.py" "run_unix.pyc" "executor.py" "cli.py" "output.py" "__init__.pyc" "./" "context.pyc" "job.pyc" "terminal_color.pyc" "job.py")
+
+ ("/home/eric/project/skywalker/continuous-integration/" (24874 150 644343 591000) "README.md" "package" "patchup" "deb_debug" "../" "pack" "./" "dep_update" "compile")
+
+ ("/home/eric/project/feature_manager/" (25026 57035 967702 785000) "README.md" "pgm.zip" "feature_manager.py" "image_list" "../" "smart_vo.py" "pgm/" "main.py" "./" "debug_module.py" "utils.py" ".git/" "__pycache__/" "frame.py" "corner_feature.py")
+
+ ("/home/eric/project/miscellanea/feature_manager_py/" (25021 19794 50561 773000) "query.jpg" "orb_match.py" "../" "./" "train.jpg")
+
+ ("/home/eric/project/skywalker/closed/scene_segmentation_dlcv/models/x86_mnn/" (24793 26903 568804 614000) "../" "BiSeNet-HBO-0-8-5classes-Sim_gpu_fp32.mnn.json" "BiSeNet-HBO-0-8-5classes-Sim.mnn" "./")
+
+ ("/home/eric/project/skywalker/3rdparty/opencv/samples/python/tutorial_code/ml/introduction_to_svm/" (24996 20175 388872 891000) "introduction_to_svm.py" "../" "./")
+
+ ("/home/eric/project/skywalker/catkin/cmake/" (25011 6527 26735 268000) "catkin_add_env_hooks.cmake" "python.cmake" "interrogate_setup_dot_py.py" "empy.cmake" "debug_message.cmake" "legacy.cmake" "em_expand.cmake" "catkin_python_setup.cmake" "tools/" "all.cmake" "list_append_deduplicate.cmake" "atomic_configure_file.cmake" "catkinConfig.cmake.in" "catkin_metapackage.cmake" "em/" "assert.cmake" "stamp.cmake" "Modules/" "catkin_workspace.cmake" "parse_package_xml.py.bak" "find_program_required.cmake" "catkin_package.cmake" "parse_package_xml.py" "catkin_package_xml.cmake" "env-hooks/" "templates/" "../" "test/" "shell.cmake" "catkin_destinations.cmake" "platform/" "toplevel.cmake" "catkin_generate_environment.cmake" "safe_execute_process.cmake" "python_version.py" "./" "list_insert_in_workspace_order.cmake" "parse_arguments.cmake" "order_paths.py" "list_append_unique.cmake")
+
+ ("/home/eric/project/build_linux/catkin/" (25011 5225 417089 392000) "catkin/" "gmock/" "gtest/" "test_results/" "CMakeCache.txt" "CMakeFiles/" "cmi_env.py" "../" "./" "catkin_generated/")
+
+ ("/opt/ros/foxy/lib/python3.8/site-packages/ros2interface/verb/" (25008 39904 673250 265000) "__init__.py" "show.py" "./" "list.py" "proto.py" "__pycache__/" "../" "packages.py" "package.py")
+
+ ("/home/eric/project/skywalker/catkin/python/catkin/cmi/" (25008 27516 828863 63000) "color.py" "cli.py" "context.py" "output.py" "terminal_color.py" "run_unix.py" "__pycache__/" "run_windows.py" "../" "job.py" "__init__.py" "common.py" "build.py" "./" "executor.py")
+
+ ("/home/eric/project/skywalker/catkin/bin/" (25008 27508 640648 884000) "catkin_package_version" "catkin_init_workspace" "catkin_prepare_release" "catkin_make" "catkin_make_isolated" "catkin_generate_project_xml" "catkin_find" "catkin_test_results" "pcmi" ".gitignore" "../" "catkin_topological_order" "./")
+
+ ("/home/eric/project/skywalker/CMakeFiles/3.16.3/" (25006 52745 611011 499000) "CompilerIdC/" "CMakeDetermineCompilerABI_CXX.bin" "CMakeDetermineCompilerABI_C.bin" "CMakeCXXCompiler.cmake" "../" "CMakeSystem.cmake" "CompilerIdCXX/" "./" "CMakeCCompiler.cmake")
+
+ ("/home/eric/project/miscellanea/cos_fetch/" (24991 1296 689798 971000) "old_new_augment/" "visualize_visual_info.py" "diagnose_abnormal.py" "comapare_augment" "result_old/" "v2443_v1115_worse/" "liuchang_crash.tar.gz" "compare_abnormal.py" "zip_to_unzip_dirs.py" "crash_record/" "tencent/" ".#copy_only_log.py" "setup.sh" "result_crash-verify/" "v2443_v1115_augment/" "run_offline.py" "v2443_vGY1110_worse/" "README" "init_env.sh" "single/" "result_vGY1110/" "../" "stat_lc_1124.tar.gz" "worse_v2443.tar.gz" "tobe_check" "gen_qualified_record.py" "qualified_zip" "1115/" "test_visual_info_list" "comapare_worse" "parallel_process.py" "augment_v2443.tar.gz" "large-diff-pose/" "result_v1111.tar.gz" "fetch_navi_data.py" "result_v1115/" "result_worse.tar.gz" "liuchang_worse.tar.gz" "fetch_figure.py" "abnormal_figure.tar.gz" "update_json.py" "result_augment.tar.gz" "local_process.py" "tmpBK/" "result_fix-crash/" "parse_result.py" "tmp/" "stat_visual_map.py" "check_record.py" "fetch_cos_data.py" "liuchang_augment.tar.gz" "get_single_record.py" "output/" "get_record_info.py" "result_v2443/" "_setup_util.py" "stitching_stat.tar.gz" "v2443_vGY1110_augment/" "sum_visual_info.py" "compare_match" "./" "ftp_service.py" "mail_service.py" "result_v2430/" "tmp_cmp_abn.py" "gy_record_list" "get_crash_record.py" "backup/" "file_ops.py" "compare_all" "result_eric/" "__pycache__/" "check.py" "result_new/" "update_json_by_sn.py" "result_v1111/" "old_new_worse/" "test_compare.py" "result_gy/" "result_lc1122/" "fetch_cos_tmp.py" "log/")
+
+ ("/home/eric/project/skywalker/3rdparty/libfeynman/src/test/" (24988 60640 714823 202000) "../" "./" "test_feynman_center_depth.cc")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/nextVPU/android-feynman-camera/app/src/main/cpp/feynman-sdk/" (24987 27253 244039 577000) "yuv_rgb.c" "feynman_sdk.cpp" "feynman_upgrade_module.cpp" "../" "ring_queue.h" "./" "ring_queue.cpp" "yuv_rgb.h" "feynman_sdk.h")
+
+ ("/home/eric/project/skywalker/common/common_data/src/common_data/" (24982 3565 977265 30000) "security/" "io/" "hardware_common.cc" "../" "utils/" "common_data_flags.cc" "./" "tools/" "data/" "net/")
+
+ ("/media/eric/2a87871d-e574-47ed-9395-a70d470c6030/eric/skywalker/common/common_data/src/common_data/" (24982 3314 264345 227000) "security/" "io/" "hardware_common.cc" "../" "utils/" "common_data_flags.cc" "./" "tools/" "data/" "net/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
