@@ -121,3 +121,5 @@
  '(lambda ()(interactive) (gud-gdb (concat "gdb --fullname " (cppcm-get-exe-path-current-buffer)))))
 ;; OPTIONAL, some users need specify extra flags forwarded to compiler
 (setq cppcm-extra-preprocss-flags-from-user '("-I/usr/src/linux/include" "-DNDEBUG"))
+
+(setq large-file-warning-threshold nil)
